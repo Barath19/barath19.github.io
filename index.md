@@ -55,12 +55,4 @@ layout: default
 
 ## Publications
 
-##### Reactive Correction of Object Placement Errors for Robotic Arrangement Tasks | [Link to Paper](https://arxiv.org/abs/2302.07795)
-
-###### _18th international conference on Intelligent Autonomous Systems (IAS18 ‑ 2023)_
-
-### There's a horizontal rule below this.
-
-## Header 2
-
->
+##### Reactive Correction of Object Placement Errors for Robotic Arrangement Tasks | [Link to Paper](https://arxiv.org/abs/2302.07795) | _18th international conference on Intelligent Autonomous Systems (IAS18 ‑ 2023)_
