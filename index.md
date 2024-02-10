@@ -12,7 +12,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Projects
 
-[Link to another page](https://github.com/Barath19/robotlearning-2024)
+[Lidar-Camera Calibration](https://github.com/Barath19/robotlearning-2024)
+[Robot Learning](https://github.com/Barath19/robotlearning-2024)
 
 ## Header 2
 
