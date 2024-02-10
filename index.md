@@ -35,7 +35,8 @@ layout: default
 
 - Conduct experiments and calibration for precise 3D pose estimation using OptiTrack system for multi‑agent reinforcement learning
 - Implementation of papers for benchmarking the research work in visual pick and place tasks
-- Porting various C++ legacy code into python code base using pybind11.Building Docker images with GPU support and camera interfaces
+- Porting various C++ legacy code into python code base using pybind11
+- Building Docker images with GPU support and camera interfaces
 - Implemented the perception stack for 3D perception and mapping of Unitree GO1 robot
 
 ##### Livello GmbH - _Jun 2023_
