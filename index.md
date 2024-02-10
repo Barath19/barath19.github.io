@@ -2,25 +2,27 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+> 4.5+ years of work experience specializing in computer vision, ROS, Python, C++, Git and Docker. I have worked with various LiDAR and camera technologies, I have experience in Python API development. My hobbies include 3D modelling and video content creation.
 
 ## Professional Experience
 
 ##### Senior Software Engineer - Bosch
 
+- Intensity‑based automatic Lidar‑Camera calibration for internal Bosch Lidar sensor. Developed the base code for checkerboard detection algorithm and automatic 3D correspondence. This calibration package was also integrated with ROS.
+- Lead a team of three for developing ROS‑based LiDAR‑Camera calibration package.
+- 3D checkerboard detection in pointcloud including ground plane seperation, normal esitmation and densification of pointcloud.
+
 ## Education
 
 ##### Msc. in Autonomous Systems
 
--
--
--
+- Foundations for robot’s perception, navigation and manipulation. Leveraging deep learning for robotics and implementation of state‑of‑the‑art algorithms on physical robots. Research focus on LiDAR‑Camera calibration and 3D object detection for edge‑devices
+- Generating synthetic dataset for 3D pose detection using blenderproc2 for photorealistic rendering
+- Research and development on automatic LiDAR‑Camera calibration using learning‑based methods
 
 ##### BTech. in Electrical and Electronics Engineering
 
--
--
--
+- An Aggregate of 80.09%. Scored the highest marks for the final‑year project and ranked second in the department.
 
 ## Internship and Research Assistant
 
@@ -31,11 +33,17 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ##### University of Bonn - _Sep 2023_
 
--
+- Conduct experiments and calibration for precise 3D pose estimation using OptiTrack system for multi‑agent reinforcement learning
+- Implementation of papers for benchmarking the research work in visual pick and place tasks
+- Porting various C++ legacy code into python code
+  base using pybind11.Building Docker images with GPU support and camera interfaces
+- Implemented the perception stack for 3D perception and mapping of Unitree GO1 robot
 
 ##### Livello GmbH - _Jun 2023_
 
--
+- Responsible for developing computer vision module for Re‑identification of people tracking for smart autonomous checkout system.
+- Overhead person tracking with pose estimation from multiple camera setup.
+- Real‑time video stitching for person tracking, multiple camera calibration and 3D reconstruction
 
 ## Projects
 
@@ -55,14 +63,4 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ## Header 2
 
-> This is a blockquote following a header.
 >
-> When something is important enough, you do it even if the odds are not in your favor.
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
