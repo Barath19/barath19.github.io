@@ -39,7 +39,9 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ## Projects
 
-[Lidar-Camera Calibration](https://github.com/Barath19/robotlearning-2024)
+##### Lidar-Camera Calibration | [Link to repo](https://github.com/Barath19/CaLiB)
+
+![Lidar-Camera Calibration](./assets/img/projection.gif)
 
 [Robot Learning](https://github.com/Barath19/robotlearning-2024)
 
