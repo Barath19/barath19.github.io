@@ -35,14 +35,13 @@ layout: default
 
 - Conduct experiments and calibration for precise 3D pose estimation using OptiTrack system for multi‑agent reinforcement learning
 - Implementation of papers for benchmarking the research work in visual pick and place tasks
-- Porting various C++ legacy code into python code
-  base using pybind11.Building Docker images with GPU support and camera interfaces
+- Porting various C++ legacy code into python code base using pybind11.Building Docker images with GPU support and camera interfaces
 - Implemented the perception stack for 3D perception and mapping of Unitree GO1 robot
 
 ##### Livello GmbH - _Jun 2023_
 
-- Responsible for developing computer vision module for Re‑identification of people tracking for smart autonomous checkout system.
-- Overhead person tracking with pose estimation from multiple camera setup.
+- Responsible for developing computer vision module for Re‑identification of people tracking for smart autonomous checkout system
+- Overhead person tracking with pose estimation from multiple camera setup
 - Real‑time video stitching for person tracking, multiple camera calibration and 3D reconstruction
 
 ## Projects
@@ -51,7 +50,7 @@ layout: default
 
 ![Lidar-Camera Calibration](./assets/img/projection.gif)
 
-[Robot Learning](https://github.com/Barath19/robotlearning-2024)
+##### Robot Learning | [Link to repo](https://github.com/Barath19/robotlearning-2024)
 
 ## Publications
 
