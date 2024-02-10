@@ -8,21 +8,23 @@ layout: default
 
 ### Senior Software Engineer - Bosch
 
-- Intensity‑based automatic Lidar‑Camera calibration for internal Bosch Lidar sensor. Developed the base code for checkerboard detection algorithm and automatic 3D correspondence. This calibration package was also integrated with ROS.
-- Lead a team of three for developing ROS‑based LiDAR‑Camera calibration package.
-- 3D checkerboard detection in pointcloud including ground plane seperation, normal esitmation and densification of pointcloud.
+- Intensity‑based automatic Lidar‑Camera calibration for internal Bosch Lidar sensor
+- Developed the base code for checkerboard detection algorithm and automatic 3D correspondence
+- Lead a team of three for developing ROS‑based LiDAR‑Camera calibration package
+- 3D checkerboard detection in pointcloud including ground plane seperation, normal esitmation and densification of pointcloud
 
 ## Education
 
 ### Msc. in Autonomous Systems
 
-- Foundations for robot’s perception, navigation and manipulation. Leveraging deep learning for robotics and implementation of state‑of‑the‑art algorithms on physical robots. Research focus on LiDAR‑Camera calibration and 3D object detection for edge‑devices
+- Foundations for robot’s perception, navigation and manipulation. Leveraging deep learning for robotics and implementation of state‑of‑the‑art algorithms on physical robots
+- Research focus on LiDAR‑Camera calibration and 3D object detection for edge‑devices
 - Generating synthetic dataset for 3D pose detection using blenderproc2 for photorealistic rendering
 - Research and development on automatic LiDAR‑Camera calibration using learning‑based methods
 
 ### BTech. in Electrical and Electronics Engineering
 
-- An Aggregate of 80.09%. Scored the highest marks for the final‑year project and ranked second in the department.
+- An Aggregate of 80.09%. Scored the highest marks for the final‑year project and ranked second in the department
 
 ## Internship and Research Assistant
 
