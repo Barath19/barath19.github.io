@@ -4,97 +4,58 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-.
+## Professional Experience
 
-There should be whitespace between paragraphs.
+##### Senior Software Engineer - Bosch
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Education
 
-# Projects
+##### Msc. in Autonomous Systems
+
+-
+-
+-
+
+##### BTech. in Electrical and Electronics Engineering
+
+-
+-
+-
+
+## Internship and Research Assistant
+
+##### AVL Software and Functions GmbH - _Jan 2024_
+
+- Lidar-Lidar Calibration using ICP
+- Effect of sensor calibration on perception tasks
+
+##### University of Bonn - _Sep 2023_
+
+-
+
+##### Livello GmbH - _Jun 2023_
+
+-
+
+## Projects
 
 [Lidar-Camera Calibration](https://github.com/Barath19/robotlearning-2024)
+
 [Robot Learning](https://github.com/Barath19/robotlearning-2024)
+
+## Publications
+
+##### Reactive Correction of Object Placement Errors for Robotic Arrangement Tasks | [Link to Paper](https://arxiv.org/abs/2302.07795)
+
+###### _18th international conference on Intelligent Autonomous Systems (IAS18 ‑ 2023)_
+
+### There's a horizontal rule below this.
 
 ## Header 2
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
-
-#### Education
-
-- Msc. in Autonomous Systems
-- BTech. in Electrical and Electronics Engineering
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-| :----------- | :---------------- | :---- |
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
----
-
-### Here is an unordered list:
-
-- Item foo
-- Item bar
-- Item baz
-- Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
