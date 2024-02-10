@@ -55,4 +55,4 @@ layout: default
 
 ## Publications
 
-##### Reactive Correction of Object Placement Errors for Robotic Arrangement Tasks | [Link to Paper](https://arxiv.org/abs/2302.07795) | _18th international conference on Intelligent Autonomous Systems (IAS18 ‑ 2023)_
+##### Reactive Correction of Object Placement Errors for Robotic Arrangement Tasks | _18th international conference on Intelligent Autonomous Systems (IAS18 ‑ 2023)_ [Link to Paper](https://arxiv.org/abs/2302.07795) |
