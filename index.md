@@ -49,12 +49,12 @@ layout: default
 
 ## Projects
 
-### Lidar-Camera Calibration | [Link to repo](https://github.com/Barath19/CaLiB)
+##### Lidar-Camera Calibration | [Link to repo](https://github.com/Barath19/CaLiB)
 
 ![Lidar-Camera Calibration](./assets/img/projection.gif)
 
-### Robot Learning | [Link to repo](https://github.com/Barath19/robotlearning-2024)
+##### Robot Learning | [Link to repo](https://github.com/Barath19/robotlearning-2024)
 
 ## Publications
 
-### Reactive Correction of Object Placement Errors for Robotic Arrangement Tasks | _18th international conference on Intelligent Autonomous Systems (IAS18 ‑ 2023)_ | [Link to Paper](https://arxiv.org/abs/2302.07795)
+##### Reactive Correction of Object Placement Errors for Robotic Arrangement Tasks | _18th international conference on Intelligent Autonomous Systems (IAS18 ‑ 2023)_ | [Link to Paper](https://arxiv.org/abs/2302.07795)
