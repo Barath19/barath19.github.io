@@ -55,7 +55,7 @@ layout: default
 
 ##### Robot Learning | [Link to repo](https://github.com/Barath19/robotlearning-2024)
 
-![Lidar-Camera Calibration](./assets/img/rl.gif)
+![Issac Gym](./assets/img/rl.gif)
 
 
 ## Publications
