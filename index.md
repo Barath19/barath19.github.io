@@ -55,6 +55,9 @@ layout: default
 
 ##### Robot Learning | [Link to repo](https://github.com/Barath19/robotlearning-2024)
 
+![Lidar-Camera Calibration](./assets/img/rl.gif)
+
+
 ## Publications
 
 ##### Reactive Correction of Object Placement Errors for Robotic Arrangement Tasks | _18th international conference on Intelligent Autonomous Systems (IAS18 ‑ 2023)_ | [Link to Paper](https://arxiv.org/abs/2302.07795)
