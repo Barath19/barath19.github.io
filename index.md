@@ -57,6 +57,10 @@ layout: default
 
 ![Issac Gym](./assets/img/rl.gif)
 
+##### Primitive Ramping Behavior | [Link to repo](https://github.com/HBRS-SDP/ss22-motion-primitive-freddy?tab=readme-ov-file)
+
+![Issac Gym](./assets/img/ramp.gif)
+
 
 ## Publications
 
