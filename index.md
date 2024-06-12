@@ -59,7 +59,11 @@ layout: default
 
 ##### Primitive Ramping Behavior | [Link to repo](https://github.com/HBRS-SDP/ss22-motion-primitive-freddy?tab=readme-ov-file)
 
-![Issac Gym](./assets/img/ramp.gif)
+![Ramping Behavior](./assets/img/ramp.gif)
+
+##### 3D Person Tracking Using SMPL 
+
+![3D Person Tracking](./assets/img/3dstore.gif)
 
 
 ## Publications
