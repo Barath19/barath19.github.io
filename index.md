@@ -78,7 +78,7 @@ reliability and development workflow.
 
 ##### Thesis: A Study on the Effect of Calibration Quality on Multi-Modal Perception Tasks for Autonomous Driving | [Link to repo](https://github.com/Barath19/ECPT)
 
-![Thesis](./assets/img/3dstore.gif)
+![Thesis](./assets/img/0_2z.png)
 
 
 ## Publications
