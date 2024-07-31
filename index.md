@@ -9,10 +9,12 @@ C++, Git, and Docker to develop and deploy cutting‑edge solutions. Expertise l
 
 ### Senior Software Engineer - Bosch
 
+- Led a team of three in developing a ROS‑based LiDAR‑Camera calibration package: This included implementing 3D checkerboard detection in
+point clouds, ground plane separation, normal estimation, and point cloud densification.
 - Intensity‑based automatic Lidar‑Camera calibration for internal Bosch Lidar sensor
 - Developed the base code for checkerboard detection algorithm and automatic 3D correspondence
-- Lead a team of three for developing ROS‑based LiDAR‑Camera calibration package
-- 3D checkerboard detection in pointcloud including ground plane seperation, normal esitmation and densification of pointcloud
+- Benchmarked PointPillar‑based 3D object detection for sparse radar point clouds against a Bayesian object detector, evaluating performance
+metrics and accuracy.
 
 ## Education
 
