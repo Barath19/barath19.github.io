@@ -2,7 +2,8 @@
 layout: default
 ---
 
-> 4.5+ years of work experience specializing in computer vision, ROS, Python, C++, Git and Docker. I have worked with various LiDAR and camera technologies, I have experience in Python API development. My hobbies include 3D modelling and video content creation.
+> 5 years of experience in the automotive industry, specializing in computer vision and robotics, possess strong proficiency in utilizing ROS, Python,
+C++, Git, and Docker to develop and deploy cutting‑edge solutions. Expertise lies in multi‑modal sensor fusion and multi‑sensor calibration.
 
 ## Professional Experience
 
@@ -16,11 +17,15 @@ layout: default
 ## Education
 
 ### Msc. in Autonomous Systems
-
-- Foundations for robot’s perception, navigation and manipulation. Leveraging deep learning for robotics and implementation of state‑of‑the‑art algorithms on physical robots
-- Research focus on LiDAR‑Camera calibration and 3D object detection for edge‑devices
-- Generating synthetic dataset for 3D pose detection using blenderproc2 for photorealistic rendering
-- Research and development on automatic LiDAR‑Camera calibration using learning‑based methods
+- Established foundations for robot perception, navigation, and manipulation by leveraging deep learning and implementing state‑of‑the‑art
+algorithms on physical robots, with a focus on multi‑sensor fusion and 3D object detection.
+- Thesis on studying the effects of calibration on perception tasks for autonomous driving. Benchmarking multi‑modal 3D object detection meth‑
+ods, including TransFusion, BEVFusion, and MVXNet, on multiple AD datasets (KITTI, NuScenes, Waymo) using MMDetection3D for comparative
+analysis of performance.
+- Conducted perturbation experiments to evaluate the robustness of 3D object detection algorithms against extrinsic calibration errors, enhanc‑
+ing the reliability of detection systems in real‑world scenarios.
+- Developed synthetic datasets for 6D pose detection using BlenderProc2, enabling photorealistic rendering and improving the accuracy of deep
+learning models for robotics.
 
 ### BTech. in Electrical and Electronics Engineering
 
@@ -30,8 +35,12 @@ layout: default
 
 ### AVL Software and Functions GmbH - _Jan 2024_
 
-- Lidar-Lidar Calibration using ICP
-- Effect of sensor calibration on perception tasks
+- Performed LiDAR‑LiDAR calibration using various Iterative Closest Point (ICP) methods, including point‑to‑point, point‑to‑plane, and symmetric
+ICP, and benchmarked these techniques on AVL datasets.
+- Utilized Open3D for 3D point cloud processing, including chamfer distance calculation and animation visualization, to enhance data analysis
+and representation.
+- Implemented unit tests and integrated GitHub Actions for automated testing and continuous integration, improving code
+reliability and development workflow.
 
 ### University of Bonn - _Sep 2023_
 
@@ -39,7 +48,7 @@ layout: default
 - Implementation of papers for benchmarking the research work in visual pick and place tasks
 - Porting various C++ legacy code into python code base using pybind11
 - Building Docker images with GPU support and camera interfaces
-- Implemented the perception stack for 3D perception and mapping of Unitree GO1 robot
+- Implemented the perception stack for 3D person detection using Haselich’s clustering and localization Unitree GO1 robot using particle filters
 
 ### Livello GmbH - _Jun 2023_
 
