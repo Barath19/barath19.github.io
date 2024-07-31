@@ -76,6 +76,10 @@ reliability and development workflow.
 
 ![3D Person Tracking](./assets/img/3dstore.gif)
 
+##### Thesis: A Study on the Effect of Calibration Quality on Multi-Modal Perception Tasks for Autonomous Driving | [Link to repo](https://github.com/Barath19/ECPT)
+
+![Thesis](./assets/img/3dstore.gif)
+
 
 ## Publications
 
