@@ -24,7 +24,9 @@ ods, including TransFusion, BEVFusion, and MVXNet, on multiple AD datasets (KITT
 analysis of performance.
 - Conducted perturbation experiments to evaluate the robustness of 3D object detection algorithms against extrinsic calibration errors, enhanc‑
 ing the reliability of detection systems in real‑world scenarios.
-- Developed synthetic datasets for 6D pose detection using BlenderProc2, enabling photorealistic rendering and improving the accuracy of deep
+- Developed a custom Isaac Gym environment for the HSR and Kinova arm to perform cabinet‑opening tasks, and trained a reinforcement learning
+agent using PPO, achieving effective results with a training time of less than 1 hour.
+- Generated synthetic datasets for 6D pose detection using BlenderProc2, enabling photorealistic rendering and improving the accuracy of deep
 learning models for robotics.
 
 ### BTech. in Electrical and Electronics Engineering
